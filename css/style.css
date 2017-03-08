@@ -1,0 +1,54 @@
+.myheading
+{
+    font-family:"Consolas", "Menlo", "Courier", monospace;
+    font-size:40px;
+}
+
+.myradio
+{
+    margin-left:20px;
+}
+
+body {
+    background: url("../image/2.jpg");
+}
+
+.mypan
+{
+    margin-top:10px;
+    opacity:1;
+}
+
+
+/*navbar style*/
+
+.mynav
+{
+    opacity:0.8;
+}
+.myimg img
+{
+    height:60px;
+    margin-top:-15px;
+}
+
+.detail label{
+    display:inline-block;
+    width:150px;
+    font-size:larger;
+}
+
+
+.text{
+    font-size: larger;
+}
+
+.imgdet {
+    height:300px;
+}
+
+
+.mysliderimg
+{
+    height:500px;
+}

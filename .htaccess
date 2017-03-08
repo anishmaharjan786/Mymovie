@@ -1,0 +1,4 @@
+AuthUserFile "/a/htdocs/cloudfox/movieapp/.htaccesspwd"
+AuthName "Please Loged In"
+AuthType Basic
+require valid-user
